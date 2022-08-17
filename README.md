@@ -1,4 +1,4 @@
-# OpenBootcamp-3.EjerciciosTema9
+# OpenBootcamp-4.EjerciciosTema9
 Introducción a la Programación
 Este es el cuarto ejercicio de OB, del curso de introducción a la programación en el cual se pide lo siguiente.
 
